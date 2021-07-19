@@ -1,8 +1,8 @@
 ### Contexte
 
 Richard n'arrive jamais à décider du film qu'il veut regarder le soir.
-Il veut donc avoir une liste des films populaires du moment, pour pouvoir choisir rapidement un film.
-Richard a besoin de voir directement certaines informations sur les films pour se décider.
+Il veut donc avoir une liste des films populaires du moment, pour pouvoir en choisir un.
+Richard a besoin de voir directement certaines informations sur les films pour se décider, il aime se fier aux avis des gens.
 
 ### TODO
 
