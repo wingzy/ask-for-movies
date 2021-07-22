@@ -6,17 +6,19 @@ import "./index.css";
 import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import MovieStore from "./stores/movie.store";
+import CatStore from "./stores/cat.store";
 
 const stores = {
   movieStore: new MovieStore(),
+  catStore: new CatStore(),
 };
 
 ReactDOM.render(
-  <Provider {...stores}>
-    <React.StrictMode>
+  <React.StrictMode>
+    <Provider {...stores}>
       <App />
-    </React.StrictMode>
-  </Provider>,
+    </Provider>
+  </React.StrictMode>,
   document.getElementById("root")
 );
 
