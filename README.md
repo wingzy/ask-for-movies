@@ -10,4 +10,4 @@ L'idée est d'utiliser les routes APIs proposées par [themoviedb](https://devel
 
 ### Note
 
-N'oublie pas d'utiliser [MobX](https://mobx.js.org/README.html) ;)
+N'oublie pas d'utiliser [MobX](https://mobx.js.org/README.html) et pense à [Material-UI](https://material-ui.com/) pour aller plus vite sur l'UI ;)
